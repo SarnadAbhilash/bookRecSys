@@ -6,6 +6,6 @@ format:
 	black *.py
 
 lint:
-	pylint --disable=R,C,W0702,W0621 app.py
+	pylint --disable=R,C, app.py
 
 all: install format lint
