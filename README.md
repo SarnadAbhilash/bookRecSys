@@ -1,4 +1,7 @@
+[![Python application test with Github Actions](https://github.com/SarnadAbhilash/bookRecSys/actions/workflows/main.yml/badge.svg)](https://github.com/SarnadAbhilash/bookRecSys/actions/workflows/main.yml)
+
 # Book Recommendation System
+need summary here (Collab filtering used, approach good reads data, etc.) ----- add in later
 
 ## Application UI/UX
 Home Page
