@@ -17,4 +17,5 @@ Recommendation Page & Results
 ![Recommend Page - User Search](./images/recommend_page.png)
 
 ## Locust Load Test
+![Locust Load Test Stats](./images/locust_load_test2.png)
 ![Locust Load Test Results](./images/locust_load_test.png)
